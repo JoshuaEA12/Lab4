@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin: 0px;
+
+}
+.header{
+    background-color: black;
+    text-align: center;
+    margin-top: 0;
+    border-bottom: 1px solid;
+    padding: 20px;
+    border-color: white;
+}
+.header h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.change button{
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10%;
+    border-block-style: inherit;
+    color: black;
+    background-color: beige;
+}
